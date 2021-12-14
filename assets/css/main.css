@@ -362,7 +362,7 @@ nav__icon {
 	display: flex;
 	align-items: center;
 	padding: 0.3rem;
-	background-color: var(--container-icon-alt);
+	background-color: var(--text-color);
 	border-radius: 0.4rem;
 	z-index: var(--z-tooltip);
 	transition: 0.4s;
@@ -370,7 +370,7 @@ nav__icon {
 }
 .scrolltop__icon {
 	font-size: 1.2rem;
-	color: var(--text-color);
+	color: var(--container-color-alt);
 }
 .show-scroll {
 	visibility: visible;
